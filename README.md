@@ -1,4 +1,4 @@
-# Ayu-Heal – Login & Registration Page
+# Login & Registration Page
 ## Project Overview
 
 This project is a Login and Registration Page developed as part of the Ayu-Heal collaborative project. 
